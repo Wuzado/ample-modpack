@@ -77,4 +77,3 @@ This is to prevent client-side lag and general annoyance when using large number
 ### Non-optimization/configuration mods:
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) (required by several mods)
 * [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (...a mod menu. Also, allows for configuration of several mods.)
-* [Auto Config Updated API](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api) (Required by Smoke Suppression)
