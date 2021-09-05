@@ -11,8 +11,8 @@ Please mind that this modpack is highly experimental. Your mileage may vary.
 ### [Sodium](https://github.com/CaffeineMC/sodium-fabric)
 `Sodium is a free and open-source optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.`
 
-### [Sodium Extras](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
-Sodium Extras adds a number of various tweaks to Sodium. They range from QoL to various performance-enhancing settings.
+### [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
+Sodium Extra adds a number of various tweaks to Sodium. They range from QoL to various performance-enhancing settings.
 
 ### [Lithium](https://github.com/CaffeineMC/lithium-fabric)
 `Lithium is a free and open-source Minecraft mod which works to optimize many areas of the game in order to provide better overall performance.`
